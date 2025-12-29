@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Creative Calculator
+
+A modern, interactive React calculator with a sleek black-and-white professional design and exciting features.
+
+## Features
+
+- 🎵 **Sound Effects**: Different sounds for numbers, operators, and equals. Toggle on/off with the volume icon.
+- 📜 **Calculation History**: Keeps last 10 calculations with timestamps. Clearable via the History panel.
+- 💧 **Ripple Effect**: Animated button click ripples for a dynamic feel.
+- 🎯 **Percentage Function (%)**: Quickly calculate percentages.
+- ✨ **Enhanced UI**: Floating particles, hover animations, smooth transitions.
+- 🖤 **Professional Black-and-White Theme**: Clean and modern design.
+
+## Demo
+
+Live demo: [Vercel URL here]()
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/manojasomarathna/creative-calculator.git
+>>>>>>> f03a14c21be98d1b881bf43801d7088813a38697
