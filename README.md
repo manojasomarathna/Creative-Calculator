@@ -13,7 +13,7 @@ A modern, interactive React calculator with a sleek black-and-white professional
 
 ## Demo
 
-Live demo: [Vercel URL here]()
+Live demo: [Vercel URL here](creative-calculator.vercel.app)
 
 ## Installation
 
